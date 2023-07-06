@@ -4,4 +4,4 @@ This was a project for the Operating Systems course at the University of Oregon.
 To run the file:
 1. Install make if not already installed
 2. Run make in the directory where files are stored.
-3. Run thv4 by executing "/thv4 [–q <msec>] [-p <nprocesses>] [-c <ncores>] –l 'command line' in the terminal."
+3. Run thv4 by executing "./thv4 [–q <msec>] [-p <nprocesses>] [-c <ncores>] –l 'command line' in the terminal."
