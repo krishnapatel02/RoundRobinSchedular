@@ -1,4 +1,4 @@
-A round robin schedular that will fork processes and suspend and run them according to the number of cores, and time per run. 
+A round robin scheduler that will fork processes and suspend and run them according to the number of cores, and time per run. 
 The program will print usage statistics to the terminal window by reading from the proc file system in Linux/Unix operating systems.
 This was a project for the Operating Systems course at the University of Oregon.
 
